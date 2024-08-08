@@ -1,2 +1,6 @@
-# educational_projects
-Several projects that I completed while studying ML, data analysis, CV
+# Учебные проекты
+Несколько проектов выполненнных мной в рамках изучения ML
+
+| Проект | Описание | Используемые технологии |
+| :-------------------- | - |- |
+|   |   |   |
